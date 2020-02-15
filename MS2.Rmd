@@ -1,0 +1,22 @@
+---
+title: "ms2"
+author: "Carina Peng"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+Cian Stryker: China and ‘One Belt, One Road’
+This project looks at China’s foreign direct investments with respect to different variables such as geography and time to investigate China’s trends in its prioritization. I like how the student covers various aspects of the Belt and Road Initiative, not just asking questions about the economics, but also questions on politics, as the BRI is heavily influenced by geopolitical factors. The project asks challenging questions after the presentation of data to have the audience reflect on choices China has made. On the other hand, I believe that while this project provides adequate information about the BRI, it lacks engagement with the audience. This project can provide more interactions for the audience to explore the data, given that there is a lot of data available for BRI released by international research agencies and governments. 
+
+Sophia Zheng: Housing Prices in Three Major US Cities
+I particularly loved this project because it stemmed from the student’s hypothesis that the change in housing price follows big shifts in high income jobs as seen in Silicon Valley. She questioned if that would happen to Seattle as well. She then uses the data from Zillow, looking at New York City and San Francisco to predict the trends in Seattle. I like that this project is motivated by a hypothesis. However, I think for the problem she is exploring, she could have included a clearer definition of the shifts in high income jobs — what that entails and more data exploration of these effects on housing prices. All she included was the median income overtime and how that correlates with the Zillow Home Value Index, which does not say much about the nuances in changes in high income jobs.
+
+
+
+
+
+
